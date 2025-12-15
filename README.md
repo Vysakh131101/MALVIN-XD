@@ -30,7 +30,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
 
 
@@ -60,7 +60,7 @@
 </p>
 
 
-> ⚠️ **IMPORTANT**: You must fork the [𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 repository](https://github.com/XdKing2/MALVIN-XD/fork) first to access session web!
+> ⚠️ **IMPORTANT**: You must fork the [𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 repository](https://github.com/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈/fork) first to access session web!
 
 
 
@@ -94,7 +94,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
       <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/MALVIN-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 <summary>⚠️ DISCLAIMER</summary>
 
 
-- ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
+- ❗ 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
 - 🛑 **Cloning, redistributing, or modifying** is strictly prohibited.
 
@@ -232,7 +232,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
-- ▶️ **YouTube: MalvinTech**  
+- ▶️ **YouTube: 𝕂𝔽𝔸 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 **  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
 
 <p align="center">
@@ -247,11 +247,11 @@ Authenticate using the *web button* below to generate your `Session ID`.
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _MALVIN-XD STATUS_
+## 🤖 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 STATUS_
 
 ```diff
 + Project Status: Active
-! Version: V.2.0.0 Neon Edition
+! Version: V.5.0.0 Neon Edition
 # License: Apache
 ```
 
@@ -267,7 +267,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 </div>
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Stargazers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Forkers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
