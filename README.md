@@ -16,7 +16,7 @@
   <p>
     <img src="https://img.shields.io/github/forks/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/XdKing2/MALVIN-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈_𝗠𝗗_𝗕𝗢𝗧style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
     <img src="https://img.shields.io/github/package-json/v/XdKing2/MALVIN-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
@@ -30,7 +30,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+README.md+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
 
 
@@ -51,7 +51,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" /></a>
 
 </div>
 <!-- Glowing Header -->
@@ -118,10 +118,10 @@ Authenticate using the *web button* below to generate your `Session ID`.
  
  **• 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
 
-> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+> Get the latest 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈_𝗠𝗥_𝗕𝗢𝗧 zip file for panel-based deployment:
 
 <div align="left">
-  <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
   </a>
 </div>
@@ -191,10 +191,10 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 
 <details>
-<summary>💡 CREDITS & CONTRIBUTORS</summary>
+<summary>💡 CREDITS & CONTRIBUTORS</summary>👾 𝓐𝓷𝓰𝓮𝓵𝓮𝓷𝓮 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 👾
  
 
-> Built with ❤️ by **Malvin King**
+> 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 ❤️ by **𝓐𝓷𝓰𝓮𝓵𝓮𝓷𝓮**
 
 - 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
@@ -227,13 +227,14 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 
 <details>
-<summary>🌐 JOIN OUR SUPPORT CHANNELS</summary>
+<summary>𝓐𝓷𝓰𝓮𝓵𝓮𝓷𝓮𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈</
+<summary>
  
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
 - ▶️ **YouTube: 𝕂𝔽𝔸 𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈 **  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+  [![Subscribe YouTube](https://youtube.com/@kfa4679?si=DKtFrogDZsrJlkHc
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
@@ -261,15 +262,15 @@ Authenticate using the *web button* below to generate your `Session ID`.
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/XdKing2/MALVIN-XD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈D/graphs/contributors)
 
 </div>
 
 </div>
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Stargazers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Forkers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="https://pin.it/4J5RxRx5U/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Stargazers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈" alt="Forkers repo roster for @XdKing2/𝐈𝐒_𝐌𝐄_𝐔𝐍𝐍𝐈"> </a> </p> 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://pin.it/4J5RxRx5U height="90" width="100%">
 
 ## Support Project
 > any amount will help keep the project upto date and more advanced
